@@ -112,12 +112,12 @@ h1{
 }
 
 .sobre-mi{
-    height: 500px;
+    height: 700px;
     padding: 10px;
 }
 
 .sobre-mi .contenedor{
-    max-width: 900px;
+    max-width: 2300px;
     text-align: center;
 }
 /* experiencia */
